@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asesmen 3 Fida</string>
+
+    <string name="error">Gagal memuat data.. Koneksi Error.</string>
+    <string name="try_again">Coba Lagi</string>
+
+    <string name="profil">Profil</string>
+
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+
+    <string name="postCaption">Caption</string>
+
+    <string name="addReview">New Post</string>
+</resources>
